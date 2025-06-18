@@ -1,6 +1,6 @@
 # Hi there, I'm Khyati 👋
 
-🎓 BTech CSE student at SRM University  
+🎓 BTech CSE student  
 💻 Passionate about web dev, design & coding  
 🌱 Currently learning JavaScript, React & APIs
 
