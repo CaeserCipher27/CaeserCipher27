@@ -1,6 +1,6 @@
 # Hi there, I'm Khyati 👋
 
-🎨 Creative Tech Enthusiast | 💻 Web Developer | 🧑‍🏫 Educator | 📈 Digital Marketer
+🎨 Creative Tech Enthusiast | 💻 Developer
 
 ## 🛠️ Tech Stack:
 
