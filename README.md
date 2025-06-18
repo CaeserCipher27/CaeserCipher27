@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Khyati 👋
 
-<!--
-**CaeserCipher27/CaeserCipher27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE student at SRM University  
+💻 Passionate about web dev, design & coding  
+🌱 Currently learning JavaScript, React & APIs
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack:
+HTML | CSS | JS | Python | C++ | Figma | Canva | MySQL | Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- 🎮 [Turtle Game → Web Game](link) — Python game turned JS
+- 🌐 [Responsive Portfolio Website](link) — Interactive & animated
+- 📊 [Mini Data Visualizer](link) — Python + Matplotlib
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=CaeserCipher27&show_icons=true&theme=tokyonight)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaeserCipher27&layout=compact&theme=tokyonight)
+
+## 📫 Connect with me:
+[Portfolio](https://khyatisaini27.github.io/Final-/) | [LinkedIn](your-link) | [Email](mailto:yourmail@example.com)
