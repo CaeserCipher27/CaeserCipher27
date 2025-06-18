@@ -1,16 +1,28 @@
 # Hi there, I'm Khyati 👋
 
-🎓 BTech CSE student  
-💻 Passionate about web dev, design & coding  
-🌱 Currently learning JavaScript, React & APIs
+🎨 Creative Tech Enthusiast | 💻 Web Developer | 🧑‍🏫 Educator | 📈 Digital Marketer
 
 ## 🛠️ Tech Stack:
-HTML | CSS | JS | Python | C++ | Figma | Canva | MySQL | Git & GitHub
 
-## 🔥 Projects
-- 🎮 [Turtle Game → Web Game](link) — Python game turned JS
-- 🌐 [Responsive Portfolio Website](link) — Interactive & animated
-- 📊 [Mini Data Visualizer](link) — Python + Matplotlib
+**Design & UI**  
+`Canva` `Figma` `Photoshop` `Illustrator` `Lightroom`  
+
+**Frontend Development**  
+`HTML` `CSS` `JavaScript` `Bootstrap` `React`  
+
+**Backend & Programming**  
+`Python` `Node.js` `SQL` `C++` `C#`  
+
+**Marketing & Productivity**  
+`Google Digital Marketing` `WordPress` `Power BI` `Tableau` 
+
+## 🔥 Featured Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| 🎮 **Turtle Crossing Game** | A Python-based game using `turtle` module. | [GitHub](https://github.com/CaeserCipher27/Turtle-Crossing-Game) |
+| 🎲 **Dice Game** | A simple, interactive web game using HTML/CSS/JS. | [Play](https://caesercipher27.github.io/The-Dice-Game/) |
+| 🛡️ **Password Manager GUI** | A secure password manager built in Python (Tkinter). | [GitHub](#) |
 
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=CaeserCipher27&show_icons=true&theme=tokyonight)
@@ -18,3 +30,6 @@ HTML | CSS | JS | Python | C++ | Figma | Canva | MySQL | Git & GitHub
 
 ## 📫 Connect with me:
 [Portfolio](https://khyatisaini27.github.io/Final-/) | [LinkedIn](your-link) | [Email](mailto:yourmail@example.com)
+
+_“Turning ideas into impact through design, development, and education.”_
+
